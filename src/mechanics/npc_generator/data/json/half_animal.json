@@ -1,0 +1,23 @@
+{
+  "first": {
+    "male": [
+      "Fenris", "Lupin", "Ursa", "Leo", "Talon", "Horn", "Fang", "Claw", "Hoof", "Maned", "Kabuki"
+
+    ],
+    "female": [
+      "Lupa", "Ursula", "Leona", "Tigra", "Vixen", "Raven", "Sable", "Huntress", "Fawn", "Briar", "Sylvara",
+      "Caelindra", "Sorreva"
+
+    ],
+    "neutral": [
+      "Fur", "Tail", "Paw", "Claw", "Hoof", "Horn", "Wing", "Scale", "Fin", "Shell"
+
+    ]
+  },
+  "last": [
+    "Wildheart", "Forestpaw", "Stormfur", "Ironclaw", "Swiftfoot", "Bearson", "Wolfblood", "Duskfang", "Draeven",
+    "Veldrun", "Maldrek", "Umbrak", "Faldrim", "Tuldris", "Grenspire", "Korragan", "Yuldreth", "Embrak", "Ashvorn",
+    "Rymoor", "Duskveil", "Nyssith", "Shaelith", "Dreadmaw", "Vorthrex", "Deathmere", "Aethermane"
+
+  ]
+}

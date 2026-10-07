@@ -1,0 +1,23 @@
+{
+  "first": {
+    "male": [
+      "James", "John", "Robert", "Michael", "William", "David", "Richard", "Joseph", "Thomas", "Charles", "Victor",
+      "Franklin", "Elon", "Donald"
+
+    ],
+    "female": [
+      "Mary", "Patricia", "Jennifer", "Linda", "Elizabeth", "Barbara", "Susan", "Jessica", "Sarah", "Karen", "Amanda",
+      "Tracy", "Melanie", "Cara", "Anita", "Lisa", "Mia"
+
+    ],
+    "neutral": [
+      "Alex", "Jordan", "Taylor", "Morgan", "Casey", "Riley", "Avery", "Quinn", "Parker", "Skyler"
+
+    ]
+  },
+  "last": [
+    "Smith", "Johnson", "Williams", "Brown", "Jones", "Garcia", "Miller", "Davis", "Rodriguez", "Martinez",
+    "De Santa", "Philips", "Trump", "Musk", "Hasting", "Varma"
+
+  ]
+}

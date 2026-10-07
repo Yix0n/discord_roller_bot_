@@ -1,0 +1,8 @@
+{
+  "first": {
+    "male": ["Azazel", "Belial", "Mephisto", "Abaddon", "Asmodeus", "Beelzebub", "Lucifer", "Moloch", "Baal", "Leviathan"],
+    "female": ["Lilith", "Naamah", "Eisheth", "Agrat", "Mahlah", "Kali", "Hecate", "Succubus", "Valkyrie", "Morrigan"],
+    "neutral": ["Inferno", "Shadow", "Ash", "Ember", "Obsidian", "Malice", "Void", "Chaos", "Rage", "Wrath"]
+  },
+  "last": ["Flameheart", "Shadowbringer", "Soulreaper", "Darkfury", "Firebrand", "Doombringer"]
+}

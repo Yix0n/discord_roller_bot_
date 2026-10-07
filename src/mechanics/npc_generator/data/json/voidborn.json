@@ -1,0 +1,22 @@
+{
+  "first": {
+    "male": [
+      "K'thar", "Xal'ath", "Z'reth", "Valthor", "Nyxal", "Oblivion", "Kael'thur", "S'kath", "Mordek", "Eldritch"
+
+    ],
+    "female": [
+      "Xy'ra", "Vexia", "Nyxara", "Z'ylia", "K'aela", "Lumira", "Thal'ra", "S'phel", "C'thila", "Eldara"
+
+    ],
+    "neutral": [
+      "Void", "Null", "Echo", "Shade", "Wisp", "Glimmer", "Shadow", "Dark", "Dusk", "Mist", "Korr'ath", "Orion"
+
+    ]
+  },
+  "last": [
+    "- Pure One", "the Undying", "the Cursed", "of the Abyss", "- The Ruined Kind", "", "- Ashborn",
+    "- Shadow of the past", "- Final Judge", "the Broken", "The Vengeful One", "the Kingslayer",
+    "a Flower quickly Fading", "Shadowborn", "- Glitched One"
+
+  ]
+}

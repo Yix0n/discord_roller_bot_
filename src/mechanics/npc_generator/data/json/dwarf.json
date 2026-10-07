@@ -1,0 +1,20 @@
+{
+  "first": {
+    "male": [
+      "Thorin", "Balin", "Dwalin", "Gimli", "Glóin", "Bombur", "Bifur", "Bofur", "Dori", "Nori"
+
+    ],
+    "female": [
+      "Helga", "Brynhild", "Sigrid", "Greta", "Astrid", "Ingrid", "Freya", "Gunnhild", "Hilda", "Ragna"
+
+    ],
+    "neutral": [
+      "Rocky", "Stone", "Ore", "Gem", "Steel", "Copper", "Bronze", "Iron", "Gold", "Silver"
+
+    ]
+  },
+  "last": [
+    "Ironfoot", "Stonehelm", "Deepdelve", "Goldbeard", "Copperfist", "Bronzebottom", "Oakenshield"
+
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "first": {
+    "male": [
+      "Michael", "Gabriel", "Raphael", "Uriel", "Azrael", "Metatron", "Sandalphon", "Zadkiel", "Raziel", "Barachiel"
+
+    ],
+    "female": [
+      "Seraphina", "Celestine", "Aurora", "Lunaria", "Stella", "Astra", "Nova", "Cassandra", "Elara", "Lyra", "Kayle"
+
+    ],
+    "neutral": [
+      "Light", "Hope", "Faith", "Grace", "Glory", "Peace", "Joy", "Love", "Wisdom", "Truth"
+
+    ]
+  },
+  "last": ["Lightbringer", "Dawnweaver", "Holyfire", "Goldwing", "Starfall", "Sunchaser"]
+}

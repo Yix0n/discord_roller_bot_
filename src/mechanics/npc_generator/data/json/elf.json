@@ -1,0 +1,24 @@
+{
+  "first": {
+    "male": [
+      "Aelar", "Thalion", "Elrohir", "Legolas", "Celeborn", "Finrod", "Glorfindel", "Ecthelion", "Fingolfin", "Cirdan",
+      "Ailuin", "Kelvhan", "Folduin", "Fhaornik", "Andrathath", "Althidon", "Vesstan", "Kiirion", "Ayas"
+
+    ],
+    "female": [
+      "Arwen", "Galadriel", "Luthien", "Idril", "Eowyn", "Aredhel", "Melian", "Nimloth", "Elanor", "Rosalie", "Elisen",
+      "Myriil", "Elred", "Axilya", "Saelethil", "Tanyl", "Maeral", "Nuovis", "Kymil"
+
+    ],
+    "neutral": [
+      "Aeris", "Elara", "Thorne", "Sylas", "Nyx", "Zephyr", "Lyra", "Orion", "Celeste", "Phoenix", "Wynather", "Falenas",
+      "Ilphas"
+
+    ]
+  },
+  "last": [
+    "Silverleaf", "Starweaver", "Moonwhisper", "Windwalker", "Nightbreeze", "Dawnbringer", "Shadowmist", "Goldentree",
+    "Reymoria", "Rofiel", "Erkrana", "Torhice", "Reyrieth", "Inafaren", "Bryphyra", "Yllakian", "Elagolor", "Heleren"
+
+  ]
+}
